@@ -1,2 +1,4 @@
 # Ignore a.out
-**/*.out
+*.out
+
+*.DS_Store
