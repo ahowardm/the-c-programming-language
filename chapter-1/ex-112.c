@@ -10,7 +10,9 @@ int main(){
       /* Another option:
       printf("%c \n", c); */
     }
-    else
+    else {
+      STATE = 1;
       putchar(c);
+    }
   }
 }
