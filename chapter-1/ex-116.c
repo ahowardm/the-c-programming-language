@@ -22,7 +22,7 @@ int main() {
     printf("%s", longest);
 }
 
-/* getline: read a line into s, return length */
+/* get_line: read a line into s, return length */
 int get_line(char s[], int lim) {
   int c, i;
 
